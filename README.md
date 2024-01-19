@@ -1,7 +1,6 @@
-- 👋 Hello, I’m Melinda Ikeda.
-- 🧠 I’m interested in developing and promoting technologies that improve personalized medicine for patients.
-  In particular, specific fields of interest include tissue image analysis, medical imaging, computer vision, digital pathology, and cancer diagnostics.
-- 🌱 I’m currently learning computer vision and pattern recognition.
+- 👋 Hello, pixels! On a mission to elevate personalized medicine for patients through tech wizardry!🔮
+- 🧠 Delving into the realms of tissue image analysis, medical imaging, computer vision, digital pathology, and cancer diagnostics.
+- 🌱 Currently navigating the craft of computer vision and pattern recognition. #techexplorer 🛸 #pixelpioneer
 
 <!---
 mcikeda/mcikeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
